@@ -1,0 +1,53 @@
+* {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+table, tr, td {
+    margin: 0;
+    padding: 0;
+    border: 5px solid black;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+table {
+    width: 800;
+    height: 600px;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+
+
+
+
+
+
+
+
